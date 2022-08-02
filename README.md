@@ -1,4 +1,4 @@
-About the assignemnt: An assignment given in Machine Learning Course. including preprocessing the data, applying different models in order to predict the 
+**About the assignemnt**: An assignment given in Machine Learning Course. including preprocessing the data, applying different models in order to predict the 
 "event primary" column, choosing the best parameters and evaluating the results. Finally, compare the different models - Random Forest and Logistic Regression.
 
 **Main parts:**
